@@ -1,0 +1,23 @@
+.box{
+    width: 100px;
+    height: 100px;
+    box-shadow: 0 0 8px 0 rgba(0,0,0.3,0.2);
+}
+.bord{
+    display: flex;
+    flex-wrap: wrap;
+    flex-grow: 4;
+}
+.out-row{
+    display: flex;
+}
+.setStyle{
+    text-align: center;      
+}
+.showtable{
+    display: flex;
+    justify-content: center;
+}
+.m{
+    margin: 10px;
+}
